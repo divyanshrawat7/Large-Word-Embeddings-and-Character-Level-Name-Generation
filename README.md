@@ -69,19 +69,4 @@ pip install torch gensim nltk scikit-learn wordcloud
 
 ---
 
-## Output Files
 
-After execution, ensure you have:
-- corpus.txt (from Problem 1)
-- Generated visualizations (Problem 1)
-- Generated names and evaluation results (Problem 2)
-
----
-
-## Submission
-
-Final submission should include:
-- corpus.txt
-- report.pdf
-
----
