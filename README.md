@@ -85,6 +85,3 @@ Final submission should include:
 - report.pdf
 
 ---
-
-## Author
-Divyansh Rawat
